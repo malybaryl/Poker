@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Poker.dir/checkCards.cpp.o CMakeFiles/Poker.dir/drawCards.cpp.o CMakeFiles/Poker.dir/main.cpp.o CMakeFiles/Poker.dir/transformCardsName.cpp.o -o Poker 

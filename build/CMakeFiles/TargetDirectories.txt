@@ -1,0 +1,5 @@
+/home/kacper/Desktop/Programming/cpp/Code/Poker/build/CMakeFiles/edit_cache.dir
+/home/kacper/Desktop/Programming/cpp/Code/Poker/build/CMakeFiles/rebuild_cache.dir
+/home/kacper/Desktop/Programming/cpp/Code/Poker/build/source/CMakeFiles/Poker.dir
+/home/kacper/Desktop/Programming/cpp/Code/Poker/build/source/CMakeFiles/edit_cache.dir
+/home/kacper/Desktop/Programming/cpp/Code/Poker/build/source/CMakeFiles/rebuild_cache.dir
